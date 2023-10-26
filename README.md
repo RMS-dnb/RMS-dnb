@@ -24,8 +24,8 @@
   <a href="https://github.com/codemaker2015?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/codemaker2015?color=yellow&logo=github">
   </a>
-  <a href="https://www.linkedin.com/in/codemaker2015">
-    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.9K-blue?color=blue&logo=linkedin">
+  <a href="https://discord.gg/6E7P3uuAs4">
+    <img alt="Discord" src="https://img.shields.io/badge/followers-1.9K-blue?color=blue&logo=discord">
   </a>
   <a href="https://twitter.com/codemaker2014">
     <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=twitter">
