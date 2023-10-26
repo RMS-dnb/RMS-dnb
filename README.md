@@ -3,7 +3,7 @@
 <a><img height="137px" src="https://github-readme-stats.vercel.app/api?username=RMS-dnb&show_icons=true&theme=dark" /><!-- wi*quL3fcV -->
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMS-dnb&layout=compact&show_icons=true&theme=dark" /></a>
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=RMS-dnb&theme=discord)
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=RMS-dnb&theme=xcode)
+
 
 <p align="left">
   <a href="https://github.com/codemaker2015/codemaker2015">
@@ -30,7 +30,7 @@
   <a href="https://twitter.com/codemaker2014">
     <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=twitter">
   </a>
-  <a href="https://www.facebook.com/vishnu.sivan.754">
+  <a href="https://www.facebook.com/paul.currie.R.M.S">
     <img alt="Facebook friends" src="https://img.shields.io/badge/friends-1.9K-blue?color=yellowgreen&logo=facebook">
   </a>
 </p>
