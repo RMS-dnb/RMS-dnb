@@ -4,6 +4,8 @@
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMS-dnb&layout=compact&show_icons=true&theme=dark" /></a>
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=RMS-dnb&theme=discord)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RMS-dnb&theme=dark)](https://git.io/streak-stats)
+
 
 <p align="left">
   <a href="https://github.com/RMS-dnb/RMS-dnb">
