@@ -6,12 +6,10 @@
 
 
 <p align="left">
-  <a href="https://github.com/codemaker2015/codemaker2015">
-    <img src="https://komarev.com/ghpvc/?username=codemaker2015&color=red" alt="profile views" />
+  <a href="https://github.com/RMS-dnb/RMS-dnb">
+    <img src="https://komarev.com/ghpvc/?username=RMS-dnb&color=red" alt="profile views" />
   </a>
-  <a href="https://github.com/codemaker2015/codemaker2015">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="page views" />
-  </a>
+
   <a href="https://stackoverflow.com/users/7103882">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/7103882?color=orange&label=reputation&logo=stackoverflow">
   </a>
@@ -31,6 +29,6 @@
     <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=twitter">
   </a>
   <a href="https://www.facebook.com/paul.currie.R.M.S">
-    <img alt="Facebook friends" src="https://img.shields.io/badge/friends-1.9K-blue?color=yellowgreen&logo=facebook">
+    <img alt="Facebook friends" src="https://img.shields.io/badge/friends-2.9K-blue?color=yellowgreen&logo=facebook">
   </a>
 </p>
