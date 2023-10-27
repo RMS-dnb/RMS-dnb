@@ -13,17 +13,14 @@
   <a href="https://github.com/RMS-dnb/RMS-dnb">
     <img src="https://komarev.com/ghpvc/?username=RMS-dnb&color=red" alt="profile views" />
   </a>
-
-
-
   <a href="https://github.com/RMS-dnb/RMS-dnb?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/RMS-dnb?color=yellow&logo=github">
   </a>
   <a href="https://discord.gg/6E7P3uuAs4">
     <img alt="Discord" src="https://img.shields.io/badge/followers-1.9K-blue?color=blue&logo=discord">
   </a>
-  <a href="https://twitter.com/codemaker2014">
-    <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=twitter">
+  <a href="https://www.instagram.com/rmsdnb/">
+    <img alt="Instagram followers" src="https://img.shields.io/badge/followers-1.4k-blue?color=orange&logo=instagram">
   </a>
   <a href="https://www.facebook.com/paul.currie.R.M.S">
     <img alt="Facebook friends" src="https://img.shields.io/badge/friends-2.9K-blue?color=yellowgreen&logo=facebook">
