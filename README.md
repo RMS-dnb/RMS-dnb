@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=RMS-dnb" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=RMS" alt="Typing SVG" /></a>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=RMS-dnb&theme=discord)
 ![](https://raw.githubusercontent.com/RMS-dnb/github-stats/master/generated/overview.svg#gh-dark-mode-only)
