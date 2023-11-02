@@ -25,7 +25,16 @@
   <a href="https://www.facebook.com/paul.currie.R.M.S">
     <img alt="Facebook friends" src="https://img.shields.io/badge/friends-2.9K-blue?color=yellowgreen&logo=facebook">
   </a>
-    <a href="https://ko-fi.com/rmsdnb">
-    <img alt="BUYMEACOFFEE" src="https://storage.ko-fi.com/cdn/nav-logo-stroke.png">
-  </a>
+ 
 </p>
+
+
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('rmsdnb', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#323842',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
