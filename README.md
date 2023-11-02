@@ -31,3 +31,4 @@
     <a href="https://ko-fi.com/rmsdnb">
     <img alt="BUYMEACOFFEE" src="https://storage.ko-fi.com/cdn/brandasset/kofi_s_tag_dark.png">
   </a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D8QOF1S)
