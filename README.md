@@ -26,7 +26,7 @@
     <img alt="Facebook friends" src="https://img.shields.io/badge/friends-2.9K-blue?color=yellowgreen&logo=facebook">
   </a>
     <a href="https://ko-fi.com/rmsdnb">
-    <img alt="BUYMEACOFFEE" src="[https://storage.ko-fi.com/cdn/nav-logo-stroke.png](https://storage.ko-fi.com/cdn/brandasset/kofi_s_tag_dark.png?_gl=1*1ilwn2m*_ga*MjY0NzU1NzMwLjE2OTg3NTI2Mzk.*_ga_M13FZ7VQ2C*MTY5ODg4NDM3OS4yLjEuMTY5ODg4NDg0NC41OS4wLjA.)https://storage.ko-fi.com/cdn/brandasset/kofi_s_tag_dark.png?_gl=1*1ilwn2m*_ga*MjY0NzU1NzMwLjE2OTg3NTI2Mzk.*_ga_M13FZ7VQ2C*MTY5ODg4NDM3OS4yLjEuMTY5ODg4NDg0NC41OS4wLjA.">
+    <img alt="BUYMEACOFFEE" src="https://storage.ko-fi.com/cdn/brandasset/kofi_s_tag_dark.png">
   </a>
  
 </p>
